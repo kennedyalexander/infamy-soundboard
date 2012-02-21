@@ -1,0 +1,26 @@
+Log
+==
+
+v1.1 21/02/12 (Changes by Martin Rhodes)
+
+- Fixed previous issue #1 with truncated file playback by switching from SoundPool to MediaPlayer for media playback. There is no noticeable lag.
+- The use of MediaPlayer also drastically decreases start-up time (as the audio files are not all pre-cached a la SoundPool)
+- Added app icon
+- Added list background image
+- Normalized all audio files to maximum volume
+- Disabled toast message queueing to allow instant toasting (and prevent toast backlogging)
+- Moved toast message to bottom of screen
+
+
+Known issues
+============
+- none
+
+
+v1.0 20/02/12
+
+List of files, 47 assets
+
+Known issues
+============
+#1 Get yer tats out (singing) truncated - android issue, not sound file.

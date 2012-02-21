@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DMN|Infamy Soundboard</string>
+    
+    <string-array name="phrases_array">
+        <item>Woosa (casual)</item>
+        <item>Woos</item>
+        <item>Woosa (intense)</item>
+        <item>Woosa (determined)</item>
+        <item>Woosa (implication)</item>
+        <item>Woosa (agreeable)</item>
+        <item>Oos</item>
+        <item>Oos (indifferent)</item>
+        <item>San</item>
+        <item>San (angry)</item>
+        <item>San San</item>
+        <item>San (disagreeable)</item>
+        <item>San (agreeable)</item>
+        <item>San, please</item>
+        <item>San (five years time)</item>
+        <item>Tea, Earl Grey. Hot.</item>
+        <item>Forever Young</item>
+        <item>Shiiitttt</item>
+        <item>Sh-Sh-Sh-Shittttttt</item>
+        <item>Cisco!</item>
+        <item>Get Yer Tats Oot</item>
+        <item>Get Yer Tats Oot (singing)</item>
+        <item>Standard</item>
+        <item>Isnt It?</item>
+        <item>Hm... Isnt it?</item>
+        <item>Isnt it, though?</item>
+        <item>Sophbeck?</item>
+        <item>So, Sophbeck?</item>
+        <item>Aw, hells yeah!</item>
+        <item>Aw hells no!</item>
+        <item>I could philosofap to that.</item>
+        <item>I love you.</item>
+        <item>Ik hou van je</item>
+        <item>Lol</item>
+        <item>Stfu son!</item>
+        <item>GTFO son!</item>
+        <item>TBQH</item>
+        <item>.. What the fuck is this?</item>
+        <item>Woootf</item>
+        <item>Woootfzorz</item>
+        <item>KHANNN!</item>
+        <item>Com, San?</item>
+        <item>So, Com?</item>
+        <item>Supcom?</item>
+        <item>So I heard you like Supcom?</item>
+        <item>So I heard you like Com?</item>
+        <item>THERE...ARE...FOUR...LIGHTS!</item>   
+    </string-array>
+
+</resources>
