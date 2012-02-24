@@ -1,6 +1,12 @@
 Log
 ==
 
+
+v1.2 24/02/12 (Changes by Martin Rhodes)
+
+- Added ability to modify playback volume using the volume rocker at any time from within the app.
+
+
 v1.1 21/02/12 (Changes by Martin Rhodes)
 
 - Fixed previous issue #1 with truncated file playback by switching from SoundPool to MediaPlayer for media playback. There is no noticeable lag.

@@ -2,6 +2,7 @@ package dmn.soundboard;
 
 import android.app.ListActivity;
 import android.content.res.AssetFileDescriptor;
+import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.widget.AdapterView;
@@ -29,6 +30,10 @@ public class InfSoundBoard extends ListActivity {
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		  
+		// set volume rocker to affect Media volume
+		setVolumeControlStream(AudioManager.STREAM_MUSIC);
+		
+		// set background of listview to /res/drawnable/bg.png
 		getListView().setCacheColorHint(0);
 		getListView().setBackgroundResource(R.drawable.bg);
 		
